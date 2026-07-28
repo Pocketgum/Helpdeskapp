@@ -1,0 +1,26 @@
+# Java and Maven
+target/
+*.class
+*.jar
+*.war
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+logs/
+
+# Environment and secrets
+.env
+application-local.properties
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Angular
+frontend/node_modules/
+frontend/dist/
